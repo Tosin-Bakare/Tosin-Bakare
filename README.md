@@ -1,6 +1,6 @@
 ### Hi, I'm Tosin 👋
 
-**Tosin-Bakare/Tosin-Bakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I'm  a frontend developer, coding enthusiast.
 
 - 🔭 I’m currently working on html,css javascript,React,Content.
 - 🌱 I’m currently learning javascript,React,frontend Development,Design
