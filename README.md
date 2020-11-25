@@ -1,7 +1,5 @@
 ### Hi, I'm Tosin 👋
 
-##I'm  a frontend developer, coding enthusiast.
-
 - 🔭 I’m currently working on html,css javascript,React,Content.
 - 🌱 I’m currently learning javascript,React,frontend Development,Design
 - 👯 I’m looking to collaborate on creating contents and projects...
