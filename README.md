@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on creating contents and projects...
 - 🤔 I’m looking for help with javascript
 - 💬 Ask me about html,css, javascript.
-- ⚡ Fun fact: I started coding in Oct.2020
+- ⚡ Fun fact:
 
   🐦 [twitter][twitter] **|** 
   👔 [linkedin][linkedin]
